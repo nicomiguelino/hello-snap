@@ -1,4 +1,4 @@
-name: hello
+name: nicomiguelino-hello
 base: core22
 version: '0.1.0'
 summary: GNU Hello, the "hello world" snap
