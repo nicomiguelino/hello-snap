@@ -1,10 +1,10 @@
 name: hello
 base: core22
-version: '2.10'
+version: '0.1.0'
 summary: GNU Hello, the "hello world" snap
 description: |
   GNU hello prints a friendly greeting.
-grade: devel
+grade: stable
 confinement: strict
 
 apps:
